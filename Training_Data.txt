@@ -1,0 +1,12 @@
+I love this car!  It is beautiful and rides nicely.  It seems like it will last forever.
+::Positive::
+I hate this car.  It's terrible and ugly.
+::Negative::
+I think this car is alright.  The seats are nice and the steering is nice.  I guess I'm pleased.
+::Positive::
+I'm annoyed, this car is terrible. This was a bad purchase.  Do not buy!
+::Negative::
+This car is awesome!
+::Positive::
+Buyer beware!
+::Negative::
